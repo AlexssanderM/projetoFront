@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "id": 10,
+      "title": "Opala Diplomata",
+      "img": "https://motortudo.com/wp-content/uploads/2020/04/Opala-Diplomata-82-Motor-Tudo-14.jpg",
+      "price": 6000.2,
+      "url": "https://motortudo.com/wp-content/uploads/"
+    },
+    {
+      "id": 20,
+      "title": "Porsche 911",
+      "img": "https://www.revistafullpower.com.br/wp-content/uploads/2017/11/Porsche-911-GT2-Auction-6.jpg",
+      "price": 10000,
+      "url": "https://www.webmotors.com.br/carros/estoque/porsche/911/de.1995"
+    },
+    {
+      "title": "mc laren gtr f1",
+      "img": "https://www.carscoops.com/wp-content/uploads/2015/05/McLaren.jpg",
+      "price": "1.000.000.000",
+      "url": "https://www.carscoops.com/2015/05/top-gear-sponsored-mclaren-f1-gtr/",
+      "id": 21
+    },
+    {
+      "title": "Gol TSI 98",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_709402-MLB46518064040_062021-O.webp",
+      "price": "89.000.00",
+      "url": "https://carro.mercadolivre.com.br/MLB-3853339194-volkswagen-gol-tsi-20-2p-_JM#position=4&search_layout=grid&type=item&tracking_id=594a34fd-b72f-4736-94d4-fe7abfdd4340",
+      "id": 22
+    },
+    {
+      "title": "Ford Maverick",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/1972-ford-maverick-moore.jpg/450px-1972-ford-maverick-moore.jpg",
+      "price": "25.000",
+      "url": "https://pt.wikipedia.org/wiki/Ford_Maverick",
+      "id": 23
+    },
+    {
+      "title": "Subaru impreza",
+      "img": "http://blog.tourspecgolf.com/wp-content/uploads/2011/12/plasma-blue-sti1.jpg",
+      "price": "26.000,00",
+      "url": "https://blog.tourspecgolf.com/project-jdm-sti-part-1/",
+      "id": 24
+    },
+    {
+      "title": "Mercedes AMG GT",
+      "img": "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2023/202308/20230802/mercedesbenz-amg-gt-4.0-v8-turbo-gasolina-c-roadster-7gdct-wmimagem11243817634.jpg?s=fill&w=552&h=414&q=60",
+      "price": "2.199.990",
+      "url": "https://www.webmotors.com.br/comprar/mercedes-benz/amg-gt/40-v8-turbo-gasolina-c-roadster-7g-dct/2-portas/2020/47870852?pos=w47870852g:&np=1",
+      "id": 25
+    },
+    {
+      "title": "hb 20",
+      "img": "https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2022/08/05132152/NOVO-HB20-2-1160x653.jpg",
+      "price": "58.000",
+      "url": "https://jornaldocarro.estadao.com.br/carros/novo-hyundai-hb20-nas-lojas-todos-os-precos-versoes-e-equipamentos/",
+      "id": 26
+    }
+  ]
+}
